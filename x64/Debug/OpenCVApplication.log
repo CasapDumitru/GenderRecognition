@@ -1,0 +1,7 @@
+﻿  OpenCVApplication.cpp
+f:\university\utcluj\an4\semestrul1\srf\project\opencvapplication-vs2015_31_basic\opencvapplication.cpp(490): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenCVApplication.vcxproj -> F:\University\UTCluj\An4\Semestrul1\SRF\Project\OpenCVApplication-VS2015_31_basic\x64\Debug\OpenCVApplication.exe
+  OpenCVApplication.vcxproj -> F:\University\UTCluj\An4\Semestrul1\SRF\Project\OpenCVApplication-VS2015_31_basic\x64\Debug\OpenCVApplication.pdb (Full PDB)
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.
